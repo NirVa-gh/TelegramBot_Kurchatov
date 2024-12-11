@@ -9,7 +9,7 @@ from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 
-TOKEN = "8053915958:AAG_pZVHkOj0YxgEjSN-4wWzsSffTI39_hU"
+TOKEN = ""
 
 dp = Dispatcher()
 
